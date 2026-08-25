@@ -13,7 +13,7 @@ document.write(`
       </div>
 
       <div class="publication-card">
-        <div class="publication-cover-wrap"><img src="images/papers/paper-placeholder.svg" alt="Working paper placeholder" class="publication-cover" width="480" height="300"></div>
+        <div class="publication-cover-wrap"><img src="images/papers/Streaming.jpg" alt="Live streaming working paper" class="publication-cover" width="1376" height="768"></div>
         <div>
           <div class="item-title">When Professionals Become Influencers: The Impact of Live Streaming on Service Demand</div>
           <div class="authors">with Xu Zhang, Yuqing Gu, and Puneet Manchanda</div>
