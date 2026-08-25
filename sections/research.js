@@ -1,6 +1,6 @@
 document.write(`
     <section class="card" id="publications">
-      <h2>Selected Publications</h2>
+      <h2>Working Papers</h2>
 
       <div class="publication-card">
         <div class="publication-cover-wrap"><img src="assets/publication-placeholder.svg" alt="Neutral publication placeholder" class="publication-cover" width="480" height="300"></div>
@@ -51,17 +51,4 @@ document.write(`
       </div>
     </section>
 
-    <section class="card" id="projects">
-      <h2>Projects</h2>
-      <div class="project-grid">
-        <div class="project-card"><div><div class="project-title">Project One</div><div class="project-desc">A short description of this project, tool, dataset, or software package.</div></div><div class="mini-links"><a class="mini-link" href="#" target="_blank" rel="noopener noreferrer">GitHub</a><a class="mini-link" href="#" target="_blank" rel="noopener noreferrer">Article</a></div></div>
-        <div class="project-card"><div><div class="project-title">Project Two</div><div class="project-desc">A short description of another research project or open-source tool.</div></div><div class="mini-links"><a class="mini-link" href="#" target="_blank" rel="noopener noreferrer">GitHub</a><a class="mini-link" href="#" target="_blank" rel="noopener noreferrer">Article</a></div></div>
-        <div class="project-card"><div><div class="project-title">Project Three</div><div class="project-desc">A short description of a small script, tutorial project, or research utility.</div></div><div class="mini-links"><a class="mini-link" href="#" target="_blank" rel="noopener noreferrer">GitHub</a></div></div>
-      </div>
-      <div class="more-block"><details><summary>See more projects</summary><div class="more-project-grid">
-        <div class="project-card"><div><div class="project-title">Additional Project One</div><div class="project-desc">Add more projects here if needed.</div></div><div class="mini-links"><a class="mini-link" href="#" target="_blank" rel="noopener noreferrer">Link</a></div></div>
-        <div class="project-card"><div><div class="project-title">Additional Project Two</div><div class="project-desc">Add a short description of this project.</div></div><div class="mini-links"><a class="mini-link" href="#" target="_blank" rel="noopener noreferrer">Link</a></div></div>
-        <div class="project-card"><div><div class="project-title">Additional Project Three</div><div class="project-desc">Add a short description of this project.</div></div><div class="mini-links"><a class="mini-link" href="#" target="_blank" rel="noopener noreferrer">Link</a></div></div>
-      </div></details></div>
-    </section>
 `);
