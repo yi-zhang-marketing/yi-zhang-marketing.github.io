@@ -599,7 +599,14 @@
   </main>
 
   <footer class="footer">
-    © 2026 Yi Zhang. Built with GitHub Pages.
+    © 2026 Yi Zhang. Built with GitHub Pages.<br>
+    Last updated: <span id="last-updated">August 2026</span>
   </footer>
+  <script>
+    document.getElementById("last-updated").textContent = new Intl.DateTimeFormat("en-US", {
+      month: "long",
+      year: "numeric"
+    }).format(new Date());
+  </script>
 </body>
 </html>
