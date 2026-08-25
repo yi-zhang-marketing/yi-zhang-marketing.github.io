@@ -1,5 +1,5 @@
 document.write(`
-    <section class="card" id="publications">
+    <section class="card" id="research">
       <h2>Working Papers</h2>
 
       <div class="publication-card">
