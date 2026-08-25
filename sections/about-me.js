@@ -7,7 +7,7 @@ document.write(`
           <p>🔭 <strong>My interests:</strong> My research focuses on <strong>quantitative marketing</strong>, with interests in digital platforms, online healthcare, AI-enabled services, and consumer decision-making.</p>
           <p>❓ You are very welcome to contact me regarding research collaboration, or working and study opportunities.</p>
           <p>📫 <strong>How to reach me:</strong> <a href="mailto:yi-harrison.zhang@polyu.edu.hk">yi-harrison.zhang@polyu.edu.hk</a></p>
-          <p>💬 <strong>To view my publications:</strong> <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5771133" target="_blank" rel="noopener noreferrer">SSRN</a></p>
+          <p>💬 <strong>To learn more about my research:</strong> <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5771133" target="_blank" rel="noopener noreferrer">SSRN</a></p>
         </div>
       </div>
       <div class="profile-photo-wrap">
