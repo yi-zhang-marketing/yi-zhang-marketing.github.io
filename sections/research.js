@@ -3,7 +3,7 @@ document.write(`
       <h2>Working Papers</h2>
 
       <div class="publication-card">
-        <div class="publication-cover-wrap"><img src="assets/publication-placeholder.svg" alt="Neutral publication placeholder" class="publication-cover" width="480" height="300"></div>
+        <div class="publication-cover-wrap"><img src="images/papers/Voice.png" alt="Voice notes working paper" class="publication-cover" width="1536" height="1024"></div>
         <div>
           <div class="item-title">Beyond Text: How Voice Notes Shape Outcomes in Chat-Based Services</div>
           <div class="authors">with Xu Zhang</div>
@@ -13,7 +13,7 @@ document.write(`
       </div>
 
       <div class="publication-card">
-        <div class="publication-cover-wrap"><img src="assets/publication-placeholder.svg" alt="Neutral publication placeholder" class="publication-cover" width="480" height="300"></div>
+        <div class="publication-cover-wrap"><img src="images/papers/paper-placeholder.svg" alt="Working paper placeholder" class="publication-cover" width="480" height="300"></div>
         <div>
           <div class="item-title">When Professionals Become Influencers: The Impact of Live Streaming on Service Demand</div>
           <div class="authors">with Xu Zhang, Yuqing Gu, and Puneet Manchanda</div>

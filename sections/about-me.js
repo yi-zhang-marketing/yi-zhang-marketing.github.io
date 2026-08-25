@@ -7,7 +7,7 @@ document.write(`
         </div>
       </div>
       <div class="profile-photo-wrap">
-        <img src="assets/profile-placeholder.svg" alt="Neutral profile placeholder" class="profile-photo" width="360" height="420">
+        <img src="images/personal/Yi.png" alt="Yi Zhang" class="profile-photo" width="360" height="420">
       </div>
     </section>
 `);

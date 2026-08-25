@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
+  <title id="title">Working paper placeholder</title>
+  <desc id="desc">A neutral placeholder for a working paper image.</desc>
+  <rect width="480" height="300" rx="18" fill="#f0f4f8"/>
+  <rect x="120" y="58" width="240" height="184" rx="8" fill="#ffffff" stroke="#c9d5e2" stroke-width="4"/>
+  <path d="M154 104h172M154 140h172M154 176h112" fill="none" stroke="#9aafc4" stroke-linecap="round" stroke-width="10"/>
+  <circle cx="328" cy="208" r="16" fill="#6e8fb1"/>
+</svg>
