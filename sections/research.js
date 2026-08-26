@@ -23,4 +23,12 @@ document.write(`
       </div>
     </section>
 
+    <section class="card" id="work-in-process">
+      <h2>Work in Process</h2>
+      <div class="info-panel">
+        <div class="item-title">The Impact of AI on Individuals in Online Mental Health Platforms</div>
+        <div class="muted">Currently in data analysis</div>
+      </div>
+    </section>
+
 `);
