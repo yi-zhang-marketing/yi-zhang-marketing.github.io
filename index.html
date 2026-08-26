@@ -268,6 +268,15 @@
       border-bottom: 1px solid #f0f0f2;
     }
 
+    .publication-card--small {
+      grid-template-columns: 190px 1fr;
+    }
+
+    .publication-card--small .publication-cover-wrap {
+      width: 190px;
+      height: 130px;
+    }
+
     .publication-card:last-child {
       border-bottom: none;
       padding-bottom: 0;
@@ -294,6 +303,10 @@
       object-position: center;
       display: block;
       background: #fff;
+    }
+
+    .publication-cover--contain {
+      object-fit: contain;
     }
 
     .project-grid {
@@ -539,6 +552,15 @@
         width: 100%;
         height: 210px;
       }
+
+      .publication-card--small {
+        grid-template-columns: 1fr;
+      }
+
+      .publication-card--small .publication-cover-wrap {
+        width: min(100%, 320px);
+        height: 160px;
+      }
     }
 
     @media (max-width: 560px) {
@@ -561,6 +583,10 @@
 
       .publication-cover-wrap {
         height: 190px;
+      }
+
+      .publication-card--small .publication-cover-wrap {
+        height: 145px;
       }
     }
   </style>

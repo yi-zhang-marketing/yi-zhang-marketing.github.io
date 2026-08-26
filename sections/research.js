@@ -25,9 +25,12 @@ document.write(`
 
     <section class="card" id="work-in-process">
       <h2>Work in Process</h2>
-      <div class="info-panel">
-        <div class="item-title">The Impact of AI on Individuals in Online Mental Health Platforms</div>
-        <div class="muted">Currently in data analysis</div>
+      <div class="publication-card publication-card--small">
+        <div class="publication-cover-wrap"><img src="images/papers/AI_Online_Mental.png" alt="AI and online mental health platforms working paper" class="publication-cover publication-cover--contain" width="1402" height="1122"></div>
+        <div>
+          <div class="item-title">The Impact of AI on Individuals in Online Mental Health Platforms</div>
+          <div class="muted">Currently in data analysis</div>
+        </div>
       </div>
     </section>
 
